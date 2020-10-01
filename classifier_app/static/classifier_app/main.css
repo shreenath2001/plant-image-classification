@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: slateblue;
+    text-align: center;
+    color:white;
+    margin-top: 10vh;
+}
+
+.heading {
+    font-family: 'Sansita Swashed', cursive;
+}
+
+form {
+    margin-top: 5vh;
+}
+
+#file {
+    display: none;
+}
+
+img {
+    width: 250px;
+    border-radius: 5%;
+}
+
+.image-text {
+    border: 3px solid goldenrod;
+    background-color: rgb(223, 28, 14);
+    border-radius: 5%;
+    padding: 15px 10px;
+    color: white;
+}
+
+#classify {
+    margin: auto;
+    display: none;
+}
+
+.spinner-border {
+    display: none;
+}
