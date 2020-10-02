@@ -1,1 +1,1 @@
-web: gunicorn plant_classifier_project.wsgi --log-file
+web: gunicorn plant_classifier_project.wsgi --log-file -
